@@ -1,7 +1,7 @@
 {
   "name": "ngfactory-loader",
-  "version": "1.0.0",
-  "description": "Serves the same purpose the html-loader does, except operatates on compiles *.ngfactory.ts files.",
+  "version": "1.0.1",
+  "description": "Serves the same purpose the html-loader does, except operatates on compiled *.ngfactory.ts files.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --harmony --full-trace --check-leaks"
